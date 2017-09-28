@@ -1,0 +1,24 @@
+c:\users\kidob\documents\visual studio 2015\Projects\RnDForDummies\RnDForDummies\bin\Debug\RnDForDummies.exe.config
+c:\users\kidob\documents\visual studio 2015\Projects\RnDForDummies\RnDForDummies\bin\Debug\RnDForDummies.exe
+c:\users\kidob\documents\visual studio 2015\Projects\RnDForDummies\RnDForDummies\bin\Debug\RnDForDummies.pdb
+c:\users\kidob\documents\visual studio 2015\Projects\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.csprojResolveAssemblyReference.cache
+c:\users\kidob\documents\visual studio 2015\Projects\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.Properties.Resources.resources
+c:\users\kidob\documents\visual studio 2015\Projects\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.csproj.GenerateResource.Cache
+c:\users\kidob\documents\visual studio 2015\Projects\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.exe
+c:\users\kidob\documents\visual studio 2015\Projects\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.pdb
+C:\Users\Kidob\Documents\Visual Studio 2015\Projects\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.csproj.CoreCompileInputs.cache
+C:\Users\Kidob\Documents\Visual Studio 2015\Projects\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.Form1.resources
+C:\Users\Kidob\Documents\Visual Studio 2015\Projects\RnDForDummies\RnDForDummies\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kidob\Documents\Visual Studio 2015\Projects\RnDForDummies\RnDForDummies\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\bin\Debug\RnDForDummies.exe.config
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\bin\Debug\RnDForDummies.exe
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\bin\Debug\RnDForDummies.pdb
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.csprojResolveAssemblyReference.cache
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.Form1.resources
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.Properties.Resources.resources
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.csproj.GenerateResource.Cache
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.csproj.CoreCompileInputs.cache
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.exe
+C:\Users\Kidob\Source\Repos\tgstation\tools\RnDForDummies\RnDForDummies\obj\Debug\RnDForDummies.pdb
